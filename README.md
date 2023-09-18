@@ -2,6 +2,12 @@
 
 Uniswap Rate Fetcher
 
+## Api
+
+### Swagger docs
+
+https://uniswap-fetcher.vercel.app/docs
+
 ## Installation
 
 ```bash
